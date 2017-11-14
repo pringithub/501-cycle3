@@ -1,0 +1,8 @@
+0, 0 anywhere;
+1, 1 forest;
+2, 2 beach;
+3, 3 underwater;
+4, 4 dark;
+5, 5 snow;
+6, 6 fairyfountain;
+7, 7 effects;

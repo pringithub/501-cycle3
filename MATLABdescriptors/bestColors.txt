@@ -1,0 +1,23 @@
+
+
+places to be:
+    underwater
+    snow
+    forest
+    fairy fountain
+    
+
+
+underwater_color = [51,165,172];
+snow_color = [127 130 175];
+forest_color = [55 55 20];
+
+beach_color = [146 140 133];
+desert_color = [65 46 49];
+fairyfountain_color = [101 130 123]; % not good (mixes up with beach
+fairyfountain2_color = [179 221 211];
+forest_color = [55 55 20];
+ocarina_pose_color[68 49 33]; % not great - 3rd best
+snow_color = [127 130 175];
+underwater_color = [71 175 166];
+underwater_night_color = [13 42 91];
